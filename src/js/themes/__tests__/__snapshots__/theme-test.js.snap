@@ -405,6 +405,7 @@ exports[`Grommet custom theme 1`] = `
     >
       <input
         autoComplete="off"
+        autoCapitalize="off"
         className="c12"
         onBlur={[Function]}
         onChange={[Function]}

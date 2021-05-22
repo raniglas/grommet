@@ -196,6 +196,7 @@ exports[`Select 0 value 1`] = `
       >
         <input
           autoComplete="off"
+          autoCapitalize="off"
           className="c5 c6"
           id="test-select__input"
           onBlur={[Function]}
@@ -432,6 +433,7 @@ exports[`Select a11yTitle 1`] = `
         <input
           aria-label="aria-test"
           autoComplete="off"
+          autoCapitalize="off"
           className="c5 c6"
           id="test-select__input"
           onBlur={[Function]}
@@ -673,6 +675,7 @@ exports[`Select applies custom global.hover theme to options 1`] = `
         >
           <input
             autocomplete="off"
+            autocapitalize="off"
             class="c6 c7"
             data-testid="applies-custom-hover-style"
             id="applies-custom-hover-style-id__input"
@@ -994,6 +997,7 @@ exports[`Select basic 1`] = `
       >
         <input
           autoComplete="off"
+          autoCapitalize="off"
           className="c5 c6"
           id="test-select__input"
           onBlur={[Function]}
@@ -1222,6 +1226,7 @@ exports[`Select complex options and children 1`] = `
       >
         <input
           autocomplete="off"
+          autocapitalize="off"
           class="c5 c6"
           id="test-select__input"
           placeholder="test select"
@@ -1271,6 +1276,7 @@ exports[`Select complex options and children 2`] = `
       >
         <input
           autocomplete="off"
+          autocapitalize="off"
           class="StyledTextInput-sc-1x30a0s-0 jsQcHW Select__SelectTextInput-sc-17idtfo-0 hWmVID"
           id="test-select__input"
           placeholder="test select"
@@ -1683,6 +1689,7 @@ exports[`Select deselect an option 1`] = `
       >
         <input
           autocomplete="off"
+          autocapitalize="off"
           class="c5 c6"
           id="test-select__input"
           placeholder="test select"
@@ -1907,6 +1914,7 @@ exports[`Select disabled 1`] = `
       >
         <input
           autocomplete="off"
+          autocapitalize="off"
           class="c5 c6"
           id="test-select__input"
           placeholder="test select"
@@ -1957,6 +1965,7 @@ exports[`Select disabled 2`] = `
       >
         <input
           autocomplete="off"
+          autocapitalize="off"
           class="StyledTextInput-sc-1x30a0s-0 jsQcHW Select__SelectTextInput-sc-17idtfo-0 hWmVID"
           id="test-select__input"
           placeholder="test select"
@@ -2222,6 +2231,7 @@ exports[`Select empty results search 1`] = `
       >
         <input
           autocomplete="off"
+          autocapitalize="off"
           class="c6"
           type="search"
           value=""
@@ -2909,6 +2919,7 @@ exports[`Select modifies select control style on open 1`] = `
         >
           <input
             autocomplete="off"
+            autocapitalize="off"
             class="c6 c7"
             data-testid="test-select-style-open"
             id="test-open-id__input"
@@ -3138,6 +3149,7 @@ exports[`Select multiple 1`] = `
       >
         <input
           autoComplete="off"
+          autoCapitalize="off"
           className="c5 c6"
           id="test-select__input"
           onBlur={[Function]}
@@ -3379,6 +3391,7 @@ exports[`Select multiple onChange toggle with valueKey reduce 1`] = `
         >
           <input
             autocomplete="off"
+            autocapitalize="off"
             class="c6 c7"
             id="test-select__input"
             placeholder="test select"
@@ -3853,6 +3866,7 @@ exports[`Select multiple onChange with valueKey reduce 1`] = `
         >
           <input
             autocomplete="off"
+            autocapitalize="off"
             class="c6 c7"
             id="test-select__input"
             placeholder="test select"
@@ -4322,6 +4336,7 @@ exports[`Select multiple onChange with valueKey string 1`] = `
         >
           <input
             autocomplete="off"
+            autocapitalize="off"
             class="c6 c7"
             id="test-select__input"
             placeholder="test select"
@@ -4791,6 +4806,7 @@ exports[`Select multiple onChange without valueKey 1`] = `
         >
           <input
             autocomplete="off"
+            autocapitalize="off"
             class="c6 c7"
             id="test-select__input"
             placeholder="test select"
@@ -5313,6 +5329,7 @@ exports[`Select multiple values 1`] = `
       >
         <input
           autocomplete="off"
+          autocapitalize="off"
           class="c5 c6"
           id="test-select__input"
           placeholder="test select"
@@ -5362,6 +5379,7 @@ exports[`Select multiple values 2`] = `
       >
         <input
           autocomplete="off"
+          autocapitalize="off"
           class="StyledTextInput-sc-1x30a0s-0 jsQcHW Select__SelectTextInput-sc-17idtfo-0 hWmVID"
           id="test-select__input"
           placeholder="test select"
@@ -5835,6 +5853,7 @@ exports[`Select onChange with valueKey string 1`] = `
         >
           <input
             autocomplete="off"
+            autocapitalize="off"
             class="c6 c7"
             id="test-select__input"
             placeholder="test select"
@@ -6304,6 +6323,7 @@ exports[`Select onChange without valueKey 1`] = `
         >
           <input
             autocomplete="off"
+            autocapitalize="off"
             class="c6 c7"
             id="test-select__input"
             placeholder="test select"
@@ -6760,6 +6780,7 @@ exports[`Select opens 1`] = `
       >
         <input
           autocomplete="off"
+          autocapitalize="off"
           class="c5 c6"
           id="test-select__input"
           placeholder="test select"
@@ -6809,6 +6830,7 @@ exports[`Select opens 2`] = `
       >
         <input
           autocomplete="off"
+          autocapitalize="off"
           class="StyledTextInput-sc-1x30a0s-0 jsQcHW Select__SelectTextInput-sc-17idtfo-0 hWmVID"
           id="test-select__input"
           placeholder="test select"
@@ -7314,6 +7336,7 @@ exports[`Select renders custom icon 1`] = `
       >
         <input
           autoComplete="off"
+          autoCapitalize="off"
           className="c5 c6"
           id="test-select__input"
           onBlur={[Function]}
@@ -7554,6 +7577,7 @@ exports[`Select renders custom up and down icons 1`] = `
         >
           <input
             autocomplete="off"
+            autocapitalize="off"
             class="c6 c7"
             placeholder="Select..."
             readonly=""
@@ -7605,6 +7629,7 @@ exports[`Select renders custom up and down icons 2`] = `
         >
           <input
             autocomplete="off"
+            autocapitalize="off"
             class="StyledTextInput-sc-1x30a0s-0 jsQcHW Select__SelectTextInput-sc-17idtfo-0 hWmVID"
             placeholder="Select..."
             readonly=""
@@ -7883,6 +7908,7 @@ exports[`Select renders default icon 1`] = `
       >
         <input
           autoComplete="off"
+          autoCapitalize="off"
           className="c5 c6"
           id="test-select__input"
           onBlur={[Function]}
@@ -8125,6 +8151,7 @@ exports[`Select renders styled select options backwards compatible with legacy
         >
           <input
             autocomplete="off"
+            autocapitalize="off"
             class="c6 c7"
             data-testid="test-select-style-options-1"
             id="test-options-style-id__input"
@@ -8363,6 +8390,7 @@ exports[`Select renders styled select options combining select.options.box &&
         >
           <input
             autocomplete="off"
+            autocapitalize="off"
             class="c6 c7"
             data-testid="test-select-style-options-3"
             id="test-options-style-id__input"
@@ -8599,6 +8627,7 @@ exports[`Select renders styled select options using select.options.container 1`]
         >
           <input
             autocomplete="off"
+            autocapitalize="off"
             class="c6 c7"
             data-testid="test-select-style-options-2"
             id="test-options-style-id__input"
@@ -8768,6 +8797,7 @@ exports[`Select renders without icon 1`] = `
       >
         <input
           autoComplete="off"
+          autoCapitalize="off"
           className="c5 c6"
           id="test-select__input"
           onBlur={[Function]}
@@ -8975,6 +9005,7 @@ exports[`Select search 1`] = `
       >
         <input
           autocomplete="off"
+          autocapitalize="off"
           class="c5 c6"
           id="test-select__input"
           placeholder="test select"
@@ -9262,6 +9293,7 @@ exports[`Select search 2`] = `
       >
         <input
           autocomplete="off"
+          autocapitalize="off"
           class="c6"
           type="search"
           value=""
@@ -9512,6 +9544,7 @@ exports[`Select select an option 1`] = `
       >
         <input
           autocomplete="off"
+          autocapitalize="off"
           class="c5 c6"
           id="test-select__input"
           placeholder="test select"
@@ -9890,6 +9923,7 @@ exports[`Select select an option with enter 1`] = `
       >
         <input
           autocomplete="off"
+          autocapitalize="off"
           class="c5 c6"
           id="test-select__input"
           placeholder="test select"
@@ -10111,6 +10145,7 @@ exports[`Select select another option 1`] = `
       >
         <input
           autocomplete="off"
+          autocapitalize="off"
           class="c5 c6"
           id="test-select__input"
           placeholder="test select"
@@ -10340,6 +10375,7 @@ exports[`Select size 1`] = `
       >
         <input
           autoComplete="off"
+          autoCapitalize="off"
           className="c5 c6"
           id="test-select__input"
           onBlur={[Function]}

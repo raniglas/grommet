@@ -318,6 +318,7 @@ const MaskedInput = forwardRef(
             id={id}
             name={name}
             autoComplete="off"
+            autoCapitalize="off"
             plain={plain}
             placeholder={placeholder || renderPlaceholder()}
             icon={icon}

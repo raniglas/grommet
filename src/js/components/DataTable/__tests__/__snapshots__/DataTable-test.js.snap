@@ -6001,6 +6001,7 @@ exports[`DataTable search 2`] = `
               >
                 <input
                   autocomplete="off"
+                  autocapitalize="off"
                   class="c2"
                   name="search-a"
                   value="["

@@ -398,6 +398,7 @@ const TextInput = forwardRef(
             id={id}
             name={name}
             autoComplete="off"
+            autoCapitalize="off"
             plain={plain}
             placeholder={
               typeof placeholder === 'string' ? placeholder : undefined
